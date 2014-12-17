@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <fullnamespace>WelcomeNotification\WelcomeNotification</fullnamespace>
+    <descriptive locale="en_US">
+        <title>Welcome Notification</title>
+    </descriptive>
+    <descriptive locale="fr_FR">
+        <title>Notification Bienvenue</title>
+    </descriptive>
+    <version>1.0</version>
+    <author>
+        <name>zzuutt</name>
+        <email>zzuutt34@free.fr</email>
+    </author>
+    <type>classic</type>
+    <thelia>2.0.0</thelia>
+    <stability>prod</stability>
+</module>
